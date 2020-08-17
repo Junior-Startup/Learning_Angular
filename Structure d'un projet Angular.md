@@ -1,6 +1,6 @@
 # Structure d'un projet Angular
 
-<img src="./assets/images/2.png" alt="drawing" width="50%"/>
+<img src="./assets/images/structure.png" alt="drawing" width="50%"/>
 
 <br>
 

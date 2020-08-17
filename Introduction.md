@@ -83,5 +83,5 @@ Un composant dans Angular sert à générer une partie de code html et fournir d
 
 <br> 
 
-![Architecture d'Angular](/assets/images/1.png)
+![Architecture d'Angular](/assets/images/architecture.png)
 
