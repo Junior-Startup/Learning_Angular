@@ -29,7 +29,7 @@ ng serve --open
 npm install bootstrap
 ```
 > Après l’installation avec succès de bootstrap, dans le dossier du projet. On a besoin d’informer Angular implicitement de l’existence de ce nouveau module. Pour ceci , il faut modifier le fichier de configuration **angular.json**.
-Il suffit d’ajouter le path du fichier “**bootstrap.min.js**” au bloc style comme ça:
+Il suffit d’ajouter le path du fichier “**bootstrap.min.css**” au bloc style comme ça:
 
 ![bootstrap declaration](/assets/images/5.png)
 
