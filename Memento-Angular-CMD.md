@@ -29,7 +29,7 @@ ng serve --port < port-number >
 To automatically open the url in the default browser we use --open or -o
 
 ```
-ng server --open
+ng serve --open
 ```
 
 ### Generate new component :
