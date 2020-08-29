@@ -42,6 +42,6 @@
 
 Plus :<br>
 <i>https://angular.io/guide/architecture <br>
-<i>https://angular.io/guide/architecture-moodules <br>
+<i>https://angular.io/guide/architecture-modules <br>
 <i>https://angular.io/guide/architecture-components <br>
 <i>https://angular.io/guide/architecture-services
